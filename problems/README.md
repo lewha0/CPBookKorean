@@ -12,3 +12,5 @@
   * [**<u>UVa 10114 - Loansome Car Buyer \*</u>**](uva10114.md)
   * [**<u>UVa 11559 - Event Planning \*</u>**](uva11559.md)
   * [**<u>UVa 11799 - Horror Dash \*</u>**](uva11799.md)
+* 중간: 쉬움에 속한 문제들보다는 한 등급 높음(15~30분 정도가 걸리겠지만 너무 어렵진 않음)
+  * [**<u>UVa 00573 - The Snail \*</u>**](uva00573.md)
