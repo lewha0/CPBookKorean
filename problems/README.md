@@ -11,3 +11,4 @@
 * 쉬움('매우 쉬움'에 속한 문제들보다는 '약간 더' 어려움)
   * [**<u>UVa 10114 - Loansome Car Buyer \*</u>**](uva10114.md)
   * [**<u>UVa 11559 - Event Planning \*</u>**](uva11559.md)
+  * [**<u>UVa 11799 - Horror Dash \*</u>**](uva11799.md)
